@@ -1,0 +1,8 @@
+Accuracy = 85.1% (851/1000) (classification)
+Accuracy = 80.8% (808/1000) (classification)
+Accuracy = 84% (840/1000) (classification)
+Accuracy = 81% (810/1000) (classification)
+Accuracy = 82.4% (824/1000) (classification)
+Accuracy = 80.3% (803/1000) (classification)
+Accuracy = 82.3% (823/1000) (classification)
+Accuracy = 79.4% (794/1000) (classification)
